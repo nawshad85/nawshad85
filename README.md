@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nawshad85</h1>
+<h1 align="center">Hi 👋, I'm nawshad</h1>
 <h3 align="center">A passionate to work with AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawshad85&label=Profile%20views&color=0e75b6&style=flat" alt="nawshad85" /> </p>
